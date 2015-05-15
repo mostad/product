@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mostad\\Product\\": "module/Product/src/"
+      "Mostad\\Product\\": "src/"
     }
   }
 }
