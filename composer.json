@@ -1,0 +1,19 @@
+{
+  "name": "mostad/product",
+  "description": "eCommerce Product",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "eCommerce",
+    "commerce",
+    "product",
+    "zf2"
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mostad\\Product\\": "module/Product/src/"
+    }
+  }
+}
